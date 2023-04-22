@@ -1,4 +1,4 @@
-# Hi, 你过来了丫！<img src="https://github.com/YaKuP-Gn/Jacob/blob/main/wave.gif" width="30">
+# Hi, 你过来了丫！<img src="https://github.com/Jaacob01/Jaacob01/blob/main/wave.gif" width="30">
 
 Hi！我叫Jacob（亚库普），目前是一名大学生、同时也是一名兼职后端工程师。
 
